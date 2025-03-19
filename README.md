@@ -15,7 +15,7 @@
 
 - Required Python libraries:
 
-pip install cryptography requests
+```pip install cryptography requests ```
 
 - A code editor (VS Code, PyCharm) or terminal.
 
