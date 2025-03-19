@@ -22,9 +22,14 @@ This repository was developed to support an application-based Python seminar tha
 ```pip install cryptography requests ```
 
 - A code editor (VS Code, PyCharm) or terminal.
+  
+## 📄 Exercises Code
 
+### 🖥️ UDP Server
 ![Server](https://github.com/user-attachments/assets/e808f069-a7e3-4d0d-aa77-2e8e825422f7)
 
+### 📱 UDP Client
 ![Client](https://github.com/user-attachments/assets/404e62a1-4062-46e2-99be-77793e4aa86a)
 
+### 📊 API DATA Collection Application
 ![API Data Collection](https://github.com/user-attachments/assets/560a8e5b-d4df-4ae9-8361-f827e2a11c4e)
