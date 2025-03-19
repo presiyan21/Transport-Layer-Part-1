@@ -1,8 +1,15 @@
 ![🚚Transport_Layer_Part_1 (1)](https://github.com/user-attachments/assets/7b85362c-16cd-4064-94fa-2fd0e8ddb7f9)
 
-##🚀 Installation and Usage
+## 📝 Exercises Overview
 
-###✅ Prerequisites
+- Understanding the TCP/IP Model's Transport Layer. 
+- The distinctions that exist between TCP and UDP and the uses that they have. 
+- Python programming for UDP interaction between clients and servers. 
+- Encryption of information for maximum security. Fetching environmental data directly from an API followed by transferring it over UDP. 
+- Dealing with errors in communication in addition to integrating essential retransmission logic for usage.
+## 🚀 Installation and Usage
+
+### ✅ Prerequisites
 
 Python 3.x installed on your system.
 
